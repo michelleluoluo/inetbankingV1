@@ -1,0 +1,38 @@
+2021-03-09 11:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:12:36 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:16:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:18:29 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:27:54 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:34:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:36:02 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:41:34 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:45:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 12:46:54 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 13:21:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 13:25:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 13:27:53 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 13:30:13 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 13:32:18 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 14:00:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 14:01:24 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 14:07:11 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-09 14:35:43 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed

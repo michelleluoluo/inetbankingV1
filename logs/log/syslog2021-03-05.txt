@@ -1,0 +1,286 @@
+2021-03-05 13:15:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 13:15:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:22) 
+INFO :  Entered username
+2021-03-05 13:15:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:25) 
+INFO :  Entered password
+2021-03-05 13:15:08 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  test is passed
+2021-03-05 14:28:54 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:34:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:34:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:22) 
+INFO :  Entered username
+2021-03-05 14:34:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:25) 
+INFO :  Entered password
+2021-03-05 14:34:09 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Test is passed
+2021-03-05 14:35:09 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:36:20 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:38:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:40:35 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:17) 
+INFO :  URL is opened
+2021-03-05 14:45:54 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:16) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 14:45:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:19) 
+INFO :  URL is opened
+2021-03-05 14:45:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  mngr311772;
+2021-03-05 14:47:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:16) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 14:47:18 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:19) 
+INFO :  URL is opened
+2021-03-05 14:47:18 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  mngr311772;
+2021-03-05 14:49:04 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:16) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 14:49:05 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:19) 
+INFO :  URL is opened
+2021-03-05 14:49:05 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  mngr311772;
+2021-03-05 14:52:43 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:16) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 14:52:47 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:19) 
+INFO :  URL is opened
+2021-03-05 14:52:47 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  mngr311772
+2021-03-05 14:52:48 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:26) 
+INFO :  Entered username
+2021-03-05 14:52:48 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Entered password
+2021-03-05 14:52:48 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  sUhUmyg
+2021-03-05 14:52:48 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  submit
+2021-03-05 14:52:49 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  Test is passed
+2021-03-05 14:58:10 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 14:58:14 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 14:58:14 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772
+2021-03-05 14:58:14 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Entered username
+2021-03-05 14:58:14 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:33) 
+INFO :  Entered password
+2021-03-05 14:58:14 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:37) 
+INFO :  submit
+2021-03-05 14:58:16 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:43) 
+INFO :  Test is passed
+2021-03-05 14:58:46 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 14:58:47 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 14:58:47 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772;
+2021-03-05 15:04:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:04:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:04:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772;
+2021-03-05 15:06:02 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:06:02 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:06:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772;
+2021-03-05 15:07:58 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:07:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:07:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772;
+2021-03-05 15:08:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:08:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:08:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29) 
+INFO :  mngr311772;
+2021-03-05 15:15:42 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:15:42 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:16:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:16:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:17:12 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/;
+2021-03-05 15:17:13 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:17:45 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:17:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:18:37 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:18:42 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:18:52 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  mngr311772
+2021-03-05 15:18:52 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:33) 
+INFO :  Entered username
+2021-03-05 15:18:52 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:35) 
+INFO :  Entered password
+2021-03-05 15:18:52 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:39) 
+INFO :  submit
+2021-03-05 15:19:41 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:19:47 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:20:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  mngr311772
+2021-03-05 15:20:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:33) 
+INFO :  Entered username
+2021-03-05 15:20:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:35) 
+INFO :  Entered password
+2021-03-05 15:20:17 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:39) 
+INFO :  submit
+2021-03-05 15:23:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/index.php
+2021-03-05 15:23:56 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:23:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  mngr311772
+2021-03-05 15:23:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:33) 
+INFO :  Entered username
+2021-03-05 15:23:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:35) 
+INFO :  Entered password
+2021-03-05 15:23:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:39) 
+INFO :  submit
+2021-03-05 15:27:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/index.php
+2021-03-05 15:27:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:27:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:27:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:27:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:27:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:30:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/index.php
+2021-03-05 15:30:06 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:30:06 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr3117721111
+2021-03-05 15:30:06 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:30:06 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:30:06 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr3117721111 sUhUmyg
+2021-03-05 15:31:26 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:31:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:31:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr3117721111
+2021-03-05 15:31:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:31:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:31:30 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr3117721111 sUhUmyg
+2021-03-05 15:32:07 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:32:12 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:32:12 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:32:13 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:32:13 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:32:13 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:33:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:33:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:33:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:33:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:33:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:33:55 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:34:27 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:34:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:34:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:34:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:34:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:34:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:48:15 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:48:19 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:49:56 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/
+2021-03-05 15:49:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:49:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:49:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:49:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:49:59 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:50:03 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:47) 
+INFO :  Test is passed
+2021-03-05 15:50:26 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21) 
+INFO :  http://demo.guru99.com/v4/index.php
+2021-03-05 15:50:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:24) 
+INFO :  URL is opened
+2021-03-05 15:50:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:30) 
+INFO :  mngr311772
+2021-03-05 15:50:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:32) 
+INFO :  Entered username
+2021-03-05 15:50:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:34) 
+INFO :  Entered password
+2021-03-05 15:50:31 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38) 
+INFO :  submitmngr311772 sUhUmyg
+2021-03-05 15:50:33 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:47) 
+INFO :  Test is passed
+2021-03-05 15:56:42 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:47) 
+INFO :  Test is passed
+2021-03-05 18:18:48 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:19:54 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:22:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:23:40 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:24:33 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:25:49 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 18:57:40 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed
+2021-03-05 19:06:35 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:28) 
+INFO :  Test is passed

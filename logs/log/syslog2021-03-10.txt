@@ -1,0 +1,202 @@
+2021-03-10 10:11:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:20) 
+INFO :  User name provided
+2021-03-10 10:11:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:22) 
+INFO :  Password provided
+2021-03-10 10:12:01 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:37) 
+INFO :  Login passed
+2021-03-10 10:50:59 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:20) 
+INFO :  User name provided
+2021-03-10 10:50:59 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:22) 
+INFO :  Password provided
+2021-03-10 10:51:03 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:37) 
+INFO :  Login passed
+2021-03-10 10:58:58 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 10:58:58 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 10:59:03 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed
+2021-03-10 11:08:33 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:08:33 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:08:38 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 11:09:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:09:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:10:00 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 11:30:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:30:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:31:01 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 11:31:02 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 11:31:06 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 11:31:06 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:31:06 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:31:13 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:31:13 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:31:19 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:31:19 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:31:24 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 11:31:24 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 11:31:29 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 11:31:30 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 11:31:34 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 14:14:24 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 14:14:24 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 14:48:33 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 14:48:34 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 14:49:51 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 14:49:51 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 14:52:51 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 14:52:51 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 14:53:27 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-10 14:57:57 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-10 14:58:04 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 14:58:04 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 14:58:09 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 14:58:10 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 14:58:16 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 14:58:16 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 14:58:16 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 14:58:20 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 14:58:20 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 14:58:28 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 14:58:28 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 14:58:35 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 14:58:35 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 14:58:42 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 14:58:45 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 14:58:50 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 14:58:54 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 14:58:54 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 15:05:01 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 15:05:01 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 15:05:13 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-10 15:05:28 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 15:05:28 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 15:05:51 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-10 15:06:24 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-10 15:06:30 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 15:06:30 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 15:06:34 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 15:06:40 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 15:06:50 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 15:06:50 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 15:06:50 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 15:07:01 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 15:07:01 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 15:07:09 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 15:07:09 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 15:07:21 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 15:07:21 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 15:07:25 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 15:07:32 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 15:07:43 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 15:07:50 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 15:07:50 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 22:15:39 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 22:15:39 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 22:15:45 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 22:15:45 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 22:15:53 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 22:15:53 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 22:16:06 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-10 22:16:06 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-10 22:16:27 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-10 22:16:43 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-10 22:16:51 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 22:16:51 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided
+2021-03-10 22:16:56 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:38) 
+INFO :  Login passed111
+2021-03-10 22:17:03 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:40) 
+INFO :  logout 
+2021-03-10 22:17:08 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:44) 
+INFO :  switch to defaultContent 
+2021-03-10 22:17:09 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:21) 
+INFO :  User name provided
+2021-03-10 22:17:09 com.inetbanking.testCases.TC_LoginTest_002.loginDDT(TC_LoginTest_002.java:23) 
+INFO :  Password provided

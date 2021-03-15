@@ -1,0 +1,32 @@
+2021-03-11 10:25:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-11 10:25:53 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-11 10:25:54 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-11 10:26:13 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-11 10:28:39 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-11 10:28:43 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-11 10:28:43 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-11 10:28:55 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-11 11:54:50 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-11 11:54:55 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-11 11:54:55 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-11 11:55:15 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
+2021-03-11 12:56:49 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:31) 
+INFO :  Test is passed
+2021-03-11 12:56:54 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:19) 
+INFO :  User name provided
+2021-03-11 12:56:54 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:21) 
+INFO :  Password provided
+2021-03-11 12:57:15 com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:54) 
+INFO :  Login passed111
